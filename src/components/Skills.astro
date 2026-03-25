@@ -1,0 +1,86 @@
+---
+import Icon from "./Icon.astro";
+---
+
+<section class="box skills">
+  <div class="stack gap-2 lg:gap-4">
+    <Icon
+      icon="terminal-window"
+      color="var(--accent-regular)"
+      size="2.5rem"
+      gradient
+    />
+    <h2>Data Management</h2>
+    <p>
+      I specialize in organizing, cleaning, and structuring data to ensure it is
+      reliable and ready for analysis. Certified in Excel, I work with VBA, SQL,
+      and Python to automate workflows and improve data efficiency.
+    </p>
+  </div>
+
+  <div class="stack gap-2 lg:gap-4">
+    <Icon
+      icon="chart-line"
+      color="var(--accent-regular)"
+      size="2.5rem"
+      gradient
+    />
+    <h2>Data Visualization</h2>
+    <p>
+      I design clear and interactive dashboards that transform complex data into
+      actionable insights. Using Power BI, I help users quickly understand
+      trends, track KPIs, and support decision-making.
+    </p>
+  </div>
+
+  <div class="stack gap-2 lg:gap-4">
+    <Icon icon="mobile" color="var(--accent-regular)" size="2.5rem" gradient />
+    <h2>Mobile Developer</h2>
+    <p>
+      Passionate about mobile development, I build cross-platform applications
+      using Flutter. I focus on performance, clean UI, and delivering a
+      consistent experience on both Android and iOS.
+    </p>
+  </div>
+</section>
+
+<style>
+  .box {
+    border: 1px solid var(--gray-800);
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    background-color: var(--gray-999_40);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .skills {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
+
+  .skills h2 {
+    font-size: var(--text-lg);
+  }
+
+  .skills p {
+    color: var(--gray-400);
+  }
+
+  @media (min-width: 50em) {
+    .box {
+      border-radius: 1.5rem;
+      padding: 2.5rem;
+    }
+
+    .skills {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 5rem;
+    }
+
+    .skills h2 {
+      font-size: var(--text-2xl);
+    }
+  }
+</style>
