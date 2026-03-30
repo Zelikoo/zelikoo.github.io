@@ -10,12 +10,15 @@ images:
   - /assets/leafy/leafy4.png
 orientation: "vertical"
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  Leafy is a application mobile for selling houseplants
 tags:
   - Flutter
   - SQL
   - PHP
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+After completing extensive training in Flutter, I would like to create my first mobile application.
+
+I decided to build an e-commerce app for indoor plants. I am using Flutter to create the user interface, MySQL for the database, and PHP to develop an API to retrieve my data.
+
+I drew inspiration from the Amazon app to design and develop my application.

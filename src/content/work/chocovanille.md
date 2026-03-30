@@ -12,11 +12,14 @@ images:
   - /assets/chocovanille/cv6.png
 orientation: "vertical"
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  Choco Vanille is a mobile application about deserts recipes
 tags:
   - FlutterFlow
   - FireBase
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+I love to create mobile applications and after learning Flutter language, i decide to create a applicatin with Flutterflow.
+
+My mom's passion is the pastry. She like to create many cake and macaron. She inspire me to create my recipe app. I take the application "Marmiton" as model.
+
+I discoved the Flutterflow platform and try many functionality for create my application. I save my data on Firebase with Flutterflow interface.

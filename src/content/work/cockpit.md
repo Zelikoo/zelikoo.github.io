@@ -12,12 +12,16 @@ images:
   - /assets/cokpit-DI-ZTD/cokpit6.png
 orientation: horizontal
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  Dashboard for managing telecom antenna installations
 tags:
   - Power BI
   - Power Query
   - DAX
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+This is my main project developed with Power BI during my work at Trefle Application.
+I worked for a French telecom company, where I created a dashboard to track the different stages of antenna deployment.
+
+The dashboard includes various visualizations, such as the number of antennas by region and progress toward objectives. It provides clear insights into project status and performance.
+
+This dashboard became a reference for the client, who decided to reuse its design and visuals for several other dashboards.
