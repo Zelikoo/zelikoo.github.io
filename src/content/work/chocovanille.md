@@ -1,6 +1,6 @@
 ---
 title: Choco Vanille
-publishDate: 2025-01-01 00:00:00
+publishDate: 2024-01-01 00:00:00
 CoverImg: /assets/chocovanille/cv1.png
 img_alt: Dashboard for telecom company
 images:
